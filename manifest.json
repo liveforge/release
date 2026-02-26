@@ -1,0 +1,21 @@
+[
+  {
+    "guid": "f7a3b1c2-9d4e-4f5a-8b6c-0e1d2f3a4b5c",
+    "name": "LiveForge",
+    "description": "Provides electronic program guide data for US over-the-air channels based on zip code. Includes up to 15 days of guide data with descriptions, episode numbers, ratings, and thumbnail images. No API key or account required.",
+    "overview": "Free OTA TV guide data for Jellyfin",
+    "owner": "tvinhas",
+    "imageUrl": "https://raw.githubusercontent.com/liveforge/release/main/liveforge.png",
+    "category": "Live TV",
+    "versions": [
+      {
+        "version": "1.2.3.2",
+        "changelog": "LiveForge v1.2.3.2",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/liveforge/release/releases/download/v1.2.3.2/liveforge-1.2.3.2.zip",
+        "checksum": "5dc55ccd344771bb03e0ced356f20565",
+        "timestamp": "2026-02-26T13:20:03Z"
+      }
+    ]
+  }
+]
